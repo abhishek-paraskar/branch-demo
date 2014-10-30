@@ -14,6 +14,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
         System.out.println("Hello World...");
         System.out.println("Chenges for Master Branch");
+        System.out.println("Changes for hotfix branch");
         System.out.println("Hello World HotFix Branch");
     }
 
