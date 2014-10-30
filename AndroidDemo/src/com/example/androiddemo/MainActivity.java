@@ -15,10 +15,7 @@ public class MainActivity extends ActionBarActivity {
         System.out.println("Hello World...");
 
         System.out.println("Chenges for Master Branch");
-        System.out.println("Changes for hotfix branch");
-        System.out.println("Hello World HotFix Branch");
-        System.out.println("Another Hello World For testing Branch   hahahaha");
-
+        System.out.println("Changes for testing branch in production remote");
     }
 
 
